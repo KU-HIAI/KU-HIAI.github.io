@@ -2,7 +2,7 @@
 ### HT.V0.1.1	띄어쓰기 자동 교정기   
 ![Alt text](/img/HT.V0.1.1.png)
 
-### HT.V0.1.2	형태소 분석 기술
+### HT.V0.1.2	형태소 분석 기술 
 ![Alt text](/img/HT.V0.1.2.png)
 
 ### HT.V0.1.3	Korean Morphological Analyzer
