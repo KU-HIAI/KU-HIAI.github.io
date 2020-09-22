@@ -1,68 +1,62 @@
-# hiai.io
-
-<details>
-<summary>1.자연어처리</summary>
-
-+ markdown list 1
-+ markdown list 2
-+ HT.V0.1.1	띄어쓰기 자동 교정기   
+# 1.자연어처리
+### HT.V0.1.1	띄어쓰기 자동 교정기   
 ![Alt text](/img/HT.V0.1.1.png)
 
-+ HT.V0.1.2	형태소 분석 기술
+### HT.V0.1.2	형태소 분석 기술
 ![Alt text](/img/HT.V0.1.2.png)
 
-+ HT.V0.1.3	Korean Morphological Analyzer
+### HT.V0.1.3	Korean Morphological Analyzer
 ![Alt text](/img/HT.V0.1.3.png)
 
-+ HT.V0.1.4	개체명 인식기(Named Entity Recognition)
+### HT.V0.1.4	개체명 인식기(Named Entity Recognition)
 ![Alt text](/img/HT.V0.1.4.png)
 
-+ HT.V0.1.5	문서 자동 분류 기술
+### HT.V0.1.5	문서 자동 분류 기술
 ![Alt text](/img/HT.V0.1.5.png)
 
-+ HT.V0.1.6	Bag of Characters를 응용한 Character-Nevel Word Representation 기술
+### HT.V0.1.6	Bag of Characters를 응용한 Character-Nevel Word Representation 기술
 ![Alt text](/img/HT.V0.1.6.png)
 
-+ HT.V0.1.7	병렬 코퍼스를 이용한 bilingual word embeding
+### HT.V0.1.7	병렬 코퍼스를 이용한 bilingual word embeding
 ![Alt text](/img/HT.V0.1.7.png)
 
-+ HT.V0.1.8	Stack-Pointer Network를 이용한 한국어 의존 구문 분석
+### HT.V0.1.8	Stack-Pointer Network를 이용한 한국어 의존 구문 분석
 ![Alt text](/img/HT.V0.1.8.png)
 
-+ HT.V0.1.9	Dependency Parser
+### HT.V0.1.9	Dependency Parser
 ![Alt text](/img/HT.V0.1.9.png)
 
-+ HT.V0.1.10	Small Data의 한계를 극복하기 위한 전이 학습 모델
+### HT.V0.1.10	Small Data의 한계를 극복하기 위한 전이 학습 모델
 ![Alt text](/img/HT.V0.1.10.png)
 
-+ HT.V0.1.11	통계기반 한국어 뉴스 감정분석
+### HT.V0.1.11	통계기반 한국어 뉴스 감정분석
 ![Alt text](/img/HT.V0.1.11.png)
 
-+ HT.V0.1.12	자연어 추론에서의 교차 검증 앙상블 기법
+### HT.V0.1.12	자연어 추론에서의 교차 검증 앙상블 기법
 ![Alt text](/img/HT.V0.1.12.png)
 
-+ HT.V0.1.13	딥러닝 방식을 이용한 환유 해소
+### HT.V0.1.13	딥러닝 방식을 이용한 환유 해소
 ![Alt text](/img/HT.V0.1.13.png) 
 ![Alt text](/img/HT.V0.1.13_2.png)
 
-+ HT.V0.1.14	Denoising Transformer기반 한국어 맞춤법 교정기
+### HT.V0.1.14	Denoising Transformer기반 한국어 맞춤법 교정기
 ![Alt text](/img/HT.V0.1.14.png)
 
-+ HT.V0.1.15	지식 임베딩 심층학습을 이용한 단어 의미 중의성 해소
+### HT.V0.1.15	지식 임베딩 심층학습을 이용한 단어 의미 중의성 해소
 ![Alt text](/img/HT.V0.1.15.png)
 
-+ HT.V0.1.16	Attentive Aggregation(주의적 종합)기반 크로서 모달 임베딩
+### HT.V0.1.16	Attentive Aggregation(주의적 종합)기반 크로서 모달 임베딩
 ![Alt text](/img/HT.V0.1.16.png) 
 ![Alt text](/img/HT.V0.1.16_2.png)
 
-+ HT.V0.1.17	단문 데이터를 활용한 다차원 감성 분석 서비스
+### HT.V0.1.17	단문 데이터를 활용한 다차원 감성 분석 서비스
 ![Alt text](/img/HT.V0.1.17.png)
 
-+ HT.V0.1.18	딥러닝 작문 서비스와 응용 서비스 개발
+### HT.V0.1.18	딥러닝 작문 서비스와 응용 서비스 개발
 ![Alt text](/img/HT.V0.1.18.png) 
 ![Alt text](/img/HT.V0.1.18_2.png)
 
-</details>
+
 
 
 
